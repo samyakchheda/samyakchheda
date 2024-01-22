@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samyak Chheda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **PHP,C Programming,Js**
+- 🌱 I’m currently learning **PHP and Python**
 
 - 👨‍💻 All of my projects are available at [https://portfoliosamyak.netlify.app/](https://portfoliosamyak.netlify.app/)
 
